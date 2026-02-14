@@ -1,0 +1,4 @@
+city,timestamp,temperature_c,condition
+Bangalore,2025-12-23T10:00:00,26,Cloudy
+Chennai,2025-12-23T10:00:00,30,Sunny
+Hyderabad,2025-12-23T10:00:00,28,Rain

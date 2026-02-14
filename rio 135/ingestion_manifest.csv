@@ -1,0 +1,4 @@
+source,file_path,checksum,timestamp,status
+iot_sensors,data\rawdat\iot_sensors\iot_sensors_2025_12_23.csv,74ba5c3af109a13a9df8f61a36d6b634,2025-12-23T13:36:16,INGESTED
+operational_logs,data\rawdat\operational_logs\orders_2025_12_23.csv,91b379ab9b56cc770324af046d672275,2025-12-23T13:36:16,INGESTED
+external_feeds,data\rawdat\external_feeds\weather_2025_12_23.csv,6b4e06b65cb68f1c28fc784ade230783,2025-12-23T13:36:16,INGESTED

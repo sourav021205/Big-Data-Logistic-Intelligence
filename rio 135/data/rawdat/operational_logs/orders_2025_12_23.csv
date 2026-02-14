@@ -1,0 +1,3 @@
+order_id,vehicle_id,pickup_city,drop_city,pickup_time,expected_delivery,actual_delivery
+ORD_001,TRUCK_001,Bangalore,Chennai,2025-12-23T08:00:00,2025-12-23T18:00:00,2025-12-23T18:30:00
+ORD_002,TRUCK_002,Chennai,Hyderabad,2025-12-23T07:30:00,2025-12-23T17:00:00,2025-12-23T16:45:00
